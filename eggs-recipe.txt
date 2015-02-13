@@ -1,0 +1,7 @@
+ingredients:
+ - 2 eggs
+ - oil
+
+instructions:
+ - on a pan hot, put oil
+ - cook the eggs for 4 minuts and serve
