@@ -1,6 +1,6 @@
 ingredients:
  - 2 eggs
- - oil
+ - 1 teaspoon of oil
 
 instructions:
  - on a pan hot, put oil
